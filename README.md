@@ -37,9 +37,4 @@ This repository contains a comprehensive Food Nutrition Dataset with detailed nu
 - Heatmaps: To visualize the correlation between nutritional features.
 - Scatter Plots: To explore relationships between individual nutrients.
 
-### **How to Use This Project** -
-This repository can be used for the following purposes:
 
-- Data Analysis: Conduct your own analysis on food nutrients and dietary insights.
-- Machine Learning: Use this dataset to build predictive models for food classification, diet recommendations, or health-related AI applications.
-- Educational Purposes: Learn how to perform EDA, data cleaning, and visualization using Python.
