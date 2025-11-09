@@ -19,7 +19,6 @@ This repository contains a comprehensive Food Nutrition Dataset with detailed nu
 - Pandas: For data wrangling and manipulation.
 - NumPy: For numerical calculations.
 - Matplotlib & Seaborn: For data visualization and creating insightful plots.
-- Jupyter Notebook: For interactive coding and step-by-step analysis.
 
 ### **Analysis Highlights**-
 - Data Cleaning: Missing values were found in Sodium, Sugar, Calcium, Iron, Potassium, VitaminC, VitaminE, and VitaminD. Appropriate techniques were used to handle these missing values.
