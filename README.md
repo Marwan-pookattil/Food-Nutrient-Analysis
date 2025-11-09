@@ -31,10 +31,10 @@ This repository contains a comprehensive Food Nutrition Dataset with detailed nu
 - Correlation Analysis: Identified relationships between nutrients (e.g., correlation between total fat and saturated fat).
 - Insights on Sugar and Sodium: Highlighted foods with excessive sugar or sodium content, which may be useful for health-conscious users.
 
-### **Visualizations Included** -
+### **Visualizations Included**-
 - Histograms: To visualize the distribution of numerical features like calories, protein, and fat.
 - Box Plots: To detect outliers in nutrient content for each food item.
 - Heatmaps: To visualize the correlation between nutritional features.
-- Scatter Plots: To explore relationships between individual nutrients.
+- Scatter Plots: To explore relationships between individual nutrients. 
 
 
